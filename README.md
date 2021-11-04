@@ -23,7 +23,7 @@ The idea behind our approach is that we observe a specific system at a steady st
 
 ## Code description
 
-The code was developed in Matlab and hence it does not require installation, you just need to be sure that all the folders under `src` are in Matlab path. I ask for forgiveness to Stallman's spirit for developing scientifc code in a language requiring a non-free license, I promise this is just a relique of my branches as a student in Physics and I promise that all my new code is developed in open and free languages.
+The code was developed in Matlab and hence it does not require installation, you just need to be sure that all the folders under `src` are in Matlab's path. _I ask for forgiveness to Stallman's spirit for developing scientifc code in a language requiring a non-free license, this is just a relique of my branches as a student in Physics and I promise that all my new code is developed in open and free languages :-)._
 
 * The main script is `src/MainScripts/DeltaCritical_SingleNetwork_Mutualism_Median.m`. You will have to specify a number of parameters in that file and, in addition, you should provide a  mutualistic matrix (binary or not). You can additionally provide some input abundances, which will be internally generated otherwise following one of the different prossibilities available.
 
