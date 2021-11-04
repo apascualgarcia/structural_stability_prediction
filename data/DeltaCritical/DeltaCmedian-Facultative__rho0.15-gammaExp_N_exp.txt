@@ -1,0 +1,9 @@
+# Computed with DeltaCritical_allNetworks_Mutualism_Median_Exp.m 
+# At date and time:  03-Nov-2021 02:08:18 
+# Author:, apascualgarcia.github.io 
+# Computing the effect of the starting relative angles between the productivities, abundances and their optimal values 
+# Simulation specific details:  Prediction of DeltaC after computing alpha at fixed point and estimating eta(Delta) with the median of a set of perturbations 
+# Distribution for abundances:  exp 
+#NmidP=  1.000000  NmidA=  1.000000  N0p=  1.000000 N0a=  1.000000  rho=  0.150000  beta0=  1.000000  hA=  0.100000  hP=  0.100000   gamma0= 0.150000  Delta=[EtaCritical-eps,EtaCritical+eps] with eps= 0.000000 
+#1Network, 2Nest, 3Conn, 4NDNSp, 5DNCos, 6Assort, 7StdvDeg, 8NestOrder2P, 9NestOrder2A, 10RhoEffP, 11RhoEffA,  12EtaPrimeP, 13EtaPrimeA, 14InterceptP, 15InterceptA, 16DeltaCp, 17DeltaCa, 18DeltaC, 19NsingletonsA, 20NsingletonsP 
+Mutualistic_matrix_long.txt 0.202221 0.064755 0.343742 0.098006 -0.182400 2.894878 15.986915 16.297939 0.155919 0.155646 0.970319 1.112719 0.004409 -0.010317 0.101901 0.104076 0.101901 21.000000 24.000000 
